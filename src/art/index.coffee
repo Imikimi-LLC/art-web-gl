@@ -2,4 +2,4 @@
 # file: art/index.coffee
 
 (module.exports = require './namespace')
-require './webgl'
+require './web_gl'
