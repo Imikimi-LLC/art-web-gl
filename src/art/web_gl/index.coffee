@@ -2,6 +2,7 @@
 # file: art/web_gl/index.coffee
 
 (module.exports = require './namespace')
+.includeInNamespace(require './_web_gl')
 .addModules
   Bitmap:                 require './bitmap'
   ContextManager:         require './context_manager'
