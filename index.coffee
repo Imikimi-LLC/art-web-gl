@@ -1,1 +1,1 @@
-module.exports = require "./src/art/webgl"
+module.exports = require "./src/art/web_gl"

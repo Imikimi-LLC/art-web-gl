@@ -3,7 +3,7 @@ define [
   'art-foundation'
   'art-canvas'
   'art-atomic'
-  '../../../../src/art/webgl'
+  '../../../../src/art/web_gl'
   'art-canvas/test/tests/art/canvas/common_bitmap_tests'
   # 'extlib/webgl-debug'
 ], (Chai, Foundation, Canvas, Atomic, Webgl, commonBitmapTests) ->
