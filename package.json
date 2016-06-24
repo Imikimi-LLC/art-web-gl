@@ -1,0 +1,17 @@
+{
+  "name": "art-webgl",
+  "version": "0.1.1",
+  "description": "art-webgl",
+  "main": "index.coffee",
+  "dependencies": {
+    "art-foundation": "git://github.com/Imikimi-LLC/art-foundation.git",
+    "art-atomic": "git://github.com/Imikimi-LLC/art-atomic.git",
+    "art-canvas": "git://github.com/Imikimi-LLC/art-canvas.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "webpack-dev-server -d"
+  },
+  "author": "Shane Brinkman-Davis Delamore",
+  "license": "ISC"
+}
